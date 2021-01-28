@@ -8,10 +8,14 @@ body {
 
 .hero,
 section {
-  background-position: right top;
+  background-position: right center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll, fixed;
+}
+
+section:first-child {
+  background-position: right top;
 }
 
 .hero .legenda {
