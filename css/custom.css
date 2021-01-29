@@ -265,3 +265,8 @@ textarea {
     padding-left: 15px;
   }
 }
+
+.legenda strong {
+  color: white;
+  font-weight: 700;
+}
